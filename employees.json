@@ -1,0 +1,67 @@
+[
+    {
+          "id":"011",
+          "name":"heidy",
+          "salary":"$245,000",
+          "department":"HR"
+        },
+       
+        {
+           "id":"012",
+           "name":"Justin",
+           "salary":"$200,000",
+           "department":"HR"
+        },
+        {
+            "id":"013",
+            "name":"David",
+            "salary":"$234,111",
+            "department":"Sales"
+
+          },
+          
+          {"id":"014",
+            "name":"Jenny",
+             "salary":"$290,000",
+             "department":"Sales"
+          },
+          {
+             "id":"015",
+             "name":"Jake",
+             "salary":"$1,025,000",
+             "department":"Cyber Security"
+          },
+
+          {
+            "id":"016",
+            "name":"jessica",
+            "salary":"$245,000",
+            "department":"HR"
+          },
+         
+          {
+             "id":"017",
+             "name":"janessa",
+             "salary":"$600,000",
+             "department":"HR"
+          },
+          {
+              "id":"018",
+              "name":"vanessa",
+              "salary":"$234,111",
+              "department":"Sales"
+  
+            },
+            
+            {"id":"019",
+              "name":"Joe",
+               "salary":"$290,000",
+               "department":"Sales"
+            },
+            {
+               "id":"020",
+               "name":"Jacob",
+               "salary":"$1,025,000",
+               "department":"Cyber Security"
+            }
+        ]
